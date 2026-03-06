@@ -1,0 +1,51 @@
+[
+  {
+    "title": "katt",
+    "description": "meow",
+    "category": "ux",
+    "status": "new",
+    "timestamp": 1772727155901,
+    "id": "24f2dfea-e68d-4493-a16e-dc050269d8e6"
+  },
+  {
+    "title": "hund",
+    "description": "voff",
+    "category": "ux",
+    "status": "new",
+    "timestamp": 1772727164925,
+    "id": "1526fcb2-51fd-4e95-81b3-cfc894aaef0d",
+    "assigneeId": "c60813f5-b387-4194-a9eb-0b6aa935c79f"
+  },
+  {
+    "title": "häst",
+    "description": "gnägg",
+    "category": "front",
+    "status": "new",
+    "timestamp": 1772727173020,
+    "id": "ca313dc6-410e-4071-81f0-af0e612f6f11"
+  },
+  {
+    "title": "gris",
+    "description": "nöff",
+    "category": "front",
+    "status": "new",
+    "timestamp": 1772727183953,
+    "id": "bc10ca1b-1955-418d-8774-b9ad720538bf"
+  },
+  {
+    "title": "anka",
+    "description": "kvack",
+    "category": "back",
+    "status": "new",
+    "timestamp": 1772727195835,
+    "id": "f721c581-7cc8-48f9-82ee-f29d49a267dd"
+  },
+  {
+    "title": "orm",
+    "description": "sssss",
+    "category": "back",
+    "status": "new",
+    "timestamp": 1772727206437,
+    "id": "1e31701b-98b0-42d1-9f55-e3ac7d296a5c"
+  }
+]
